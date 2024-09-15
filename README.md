@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MusicalAntlers
 - 👀 I’m interested in travel, music, video games, youtube, cats
-- 🌱 I’m currently learning Assembly Language (in school) and Python (in my free time)
+- 🌱 I’m currently learning Assembly Language (in school) and Python (using the Codecademy "Learn Python 3" course in my free time)
 - 💞️ I’m looking to collaborate on open source projects, resume and experience building.
 - 📫 How to reach me mpwilliams2@cougars.ccis.edu
 - 😄 Pronouns: she/her
