@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a hedgehog named Luna Hedgegood.
 - Current cipleted classes/skills: C++, C#, Python, Agile Project Management
-- Working on: AWS certification, tryhackme cybersecurity courses, HTML and Java courses
+- Working on: AWS DevOp certification, tryhackme cybersecurity courses, HTML and Java courses
 
 <!---
 MusicalAntlers/MusicalAntlers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
